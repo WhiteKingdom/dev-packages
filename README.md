@@ -6,6 +6,7 @@ php 开发常用包
 | **扩展包** | **一句话描述** | **本项目应用场景** |
 | ---- | ---- | ---- | 
 | [phpredis/phpredis](https://github.com/phpredis/phpredis) | PHP Redis 扩展 | 缓存驱动 Redis |
+| [pviest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) | PHP Excel 扩展 | 导出 Excel |
 
 ### Composer
 | **扩展包** | **一句话描述** | **本项目应用场景** |
@@ -15,7 +16,6 @@ php 开发常用包
 | [spatie/laravel-permission](https://github.com/spatie/laravel-permission) | 权限和角色 | 管理VIP用户和非VIP用户 |
 | [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) | 微信 SDK for Laravel, 基于 overtrue/wechat | 微信网页授权和消息推送 |
 | [overtrue/laravel-query-logger](https://github.com/overtrue/laravel-query-logger) | Laravel SQL 监听工具 | 开发环境查看 SQL 记录 |
-| [pviest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) | PHP Excel 扩展 | 导出 Excel |
 | [laravel/passport](https://github.com/laravel/passport) | 用户授权 | 基于 Personal Access Token 的前后端用户认证 |
 | [yansongda/laravel-pay](https://github.com/yansongda/laravel-pay) | 支付宝与微信支付封装 | 微信支付 |
 | [whiteki/simple-api-response](https://github.com/WhiteKingdom/simple-api-response) | api响应封装 | 封装响应并监听sql |
