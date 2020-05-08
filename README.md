@@ -24,3 +24,5 @@ php 开发常用包
 | [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) | CORS Middleware for Laravel | 解决跨域 |
 | [overtrue/laravel-uploader](https://github.com/overtrue/laravel-uploader) | 🌴 An upload component for Laravel. | 图片上传 |
 | [codingyu/laravel-ueditor](https://github.com/codingyu/laravel-ueditor) | UEditor integration for Laravel. | 百度编辑器接口 |
+| [laravel/scout](https://github.com/laravel/scout) | 全文搜索 | 后台文章搜索 |
+| [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php) | Algolia 交互客户端 |  Algolia 驱动 |
