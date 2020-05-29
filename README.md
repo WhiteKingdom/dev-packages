@@ -26,3 +26,4 @@ php 开发常用包
 | [codingyu/laravel-ueditor](https://github.com/codingyu/laravel-ueditor) | UEditor integration for Laravel. | 百度编辑器接口 |
 | [laravel/scout](https://github.com/laravel/scout) | 全文搜索 | 后台文章搜索 |
 | [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php) | Algolia 交互客户端 |  Algolia 驱动 |
+| [overtrue/easy-sms](https://github.com/overtrue/easy-sms) | 短信发送组件 | 发送短信 |
